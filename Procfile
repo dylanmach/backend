@@ -1,2 +1,2 @@
-web: gunicorn app.py:hollender_rubinstein
+web: gunicorn app:app
 
